@@ -1,4 +1,6 @@
 pasta
+rice
 pizza
 burger
 lasagna
+biryani
